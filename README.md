@@ -6,8 +6,11 @@ Web Development Internship Tasks
 <br>
 # DEMO OF THE PROJECT 1
 <br>
-https://calculatorlevel2task1.netlify.app/
+# https://calculatorlevel2task1.netlify.app/
 <br>
 # Level 2 Task 2  Tribute Page
 <br>
 #Demo of the Project 2
+<br>
+# https://task2tributepage.netlify.app/
+
